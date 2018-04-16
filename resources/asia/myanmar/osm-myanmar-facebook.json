@@ -1,10 +1,10 @@
 {
-  "id": "OSM-BGD-facebook",
-  "featureId": "BGD",
+  "id": "OSM-MMR-facebook",
+  "featureId": "MMR",
   "type": "facebook",
-  "name": "OpenStreetMap Bangladesh",
-  "description": "Improve OpenStreetMap in Bangladesh",
-  "extendedDescription": "Mapping in Bangladesh? Have questions, want to connect with the community here? Join us at {Url}. All are welcome!",
-  "url": "https://www.facebook.com/groups/osmbd/",
-  "contacts": [{"name": "Ahasanul Hoque", "email": "hoque.ahasan@gmail.com"}]
+  "name": "OpenStreetMap Myanmar",
+  "description": "Improve OpenStreetMap in Myanmar",
+  "extendedDescription": "Mapping in Myanmar? Have questions, want to connect with the community here? Join us at {Url}. All are welcome!",
+  "url": "https://www.facebook.com/groups/osmmm/",
+  "contacts": [{"name": "Yan Naung Oak", "email": "yan@phandeeyar.org"}, {"name": "Patrick Oswald", "email": "patrickoswald.omm@gmail.com"}, {"name": "Set Khaing Oo", "email": "setkhaing@phandeeyar.org"}]
 }
